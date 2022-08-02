@@ -1,5 +1,5 @@
 # Nexus-Software-Website
-Nexus Template - ITI (HTML4 - CSS Workshop2) Task 3
+*Nexus Template - ITI (HTML4 - CSS Workshop2) Task 3*
 ---
 ## Live Demo : https://mohammed-nasif.github.io/Nexus-Software-Website/
 ## Github Repo: https://github.com/Mohammed-Nasif/Nexus-Software-Website
